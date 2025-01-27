@@ -8,12 +8,15 @@ Annual Income (k$)
 Spending Score (1-100)  
 Age  
 ## ⚙️Steps Involved  
-Data Preprocessing: Handling missing values, feature scaling.  
-Exploratory Data Analysis (EDA): Understanding distributions and relationships.  
- K-Means Clustering:  
+### Data Preprocessing: Handling missing values, feature scaling. 
+
+### Exploratory Data Analysis (EDA): Understanding distributions and relationships.  
+
+###K-Means Clustering:  
 Finding the optimal k using Elbow Method & Silhouette Score.  
 Visualizing clusters in 2D and 3D.  
-DBSCAN Clustering:  
+
+### DBSCAN Clustering:  
 Comparing results with K-Means.  
 Handling outliers and varying densities.  
 ## 📷 Visualizations  
