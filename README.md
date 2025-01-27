@@ -12,7 +12,7 @@ Age
 
 ### Exploratory Data Analysis (EDA): Understanding distributions and relationships.  
 
-###K-Means Clustering:  
+### K-Means Clustering:  
 Finding the optimal k using Elbow Method & Silhouette Score.  
 Visualizing clusters in 2D and 3D.  
 
